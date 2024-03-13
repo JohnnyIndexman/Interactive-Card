@@ -10,6 +10,7 @@
     background: url(images/bg-main-desktop.png) no-repeat;
     background-size: cover;
     font-family: "Roboto", sans-serif;
+    user-select: none;
 }
 
 .card-front{
